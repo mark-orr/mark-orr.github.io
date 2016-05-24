@@ -1,9 +1,9 @@
 
-Katy Huff's Homepage
+Mark Orr's Homepage
 ____________________________
 
 
-This is the repository that holds the hompage for Katy Huff. It is a forked 
+This is the repository that holds the hompage for Mark Orr. It is a forked 
 version of the Maori project on github. Details about Maori follow. 
 
 
