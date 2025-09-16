@@ -7,7 +7,30 @@
 
 <body>
     <h1>Mark Orr, PhD</h1>
+
     <p>"keep it simple, Stupid"</p>
+
+    <blockquote id="quote-display">
+    </blockquote>
+
+    <script>
+        // 1. Create your "bag of quotes" in an array
+        const quotes = [
+            "The only way to do great work is to love what you do.",
+            "Life is what happens when you're busy making other plans.",
+            "The future belongs to those who believe in the beauty of their dreams.",
+            "It is never too late to be what you might have been.",
+            "Strive not to be a success, but rather to be of value."
+        ];
+
+        // 2. Pick a random quote from the array
+        const randomQuote = quotes[Math.floor(Math.random() * quotes.length)];
+
+        // 3. Put the quote into the HTML element
+        document.getElementById('quote-display').textContent = randomQuote;
+    </script>
+
+
     <ul>
         <li><a href="./affiliations.html" title="affiliations">Affiliations</a></li>
         <li><a href="./research.html" title="Research">Research</a></li>
