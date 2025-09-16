@@ -1,0 +1,2064 @@
+“Science is the belief in the ignorance of experts.”
+  – Richard Feynman, *The Physics Teacher*, vol 7 no 6 (1969)
+
+“We are well aware from the history of science that ideas
+universally believed are not necessarily true.”
+                    – Jane Jacobs, *The Economy of Cities*
+
+“Problems in science are sometimes made easier by adding
+complications.”  – Daniel Dennett, *Darwin’s Dangerous Idea*
+
+“Science, done right, *is* one of the humanities.”
+    – Daniel Dennett, quoting his anonymous, high
+       school physics teacher in *Darwin’s Dangerous Idea*
+
+“Is no one inspired by our present picture of the universe? This
+value of science remains unsung by singers: you are reduced to
+hearing not a song or poem, but an evening lecture about it. This
+is not yet a scientific age.”
+     – Richard Feynman, *What Do YOU Care What Other People Think*
+
+“Science...is not just a matter of making mistakes, but of making
+mistakes in public. Making mistakes for all to see, in the hopes
+of getting the others to help with the corrections.”
+                       – Daniel Dennett, *Darwin’s Dangerous Idea*
+
+“Poverty always mingles myth with medicine, for myth is free
+and science is dear.”            – Will Durant, *The Age of Faith*
+
+“As soon as Maxwell’s predictions of invisible waves were
+experimentally verified...in 1887, the major problems in physics
+seemed to divide into two broad categories, namely, the physics
+of matter and the physics of the aether.”
+                 – Loyd S Swenson, *The Ethereal Aether*
+
+“Great theories don’t simply appear in someone’s head as if by magic,
+but take time to blossom. The so-called ‘eureka’ cry is more an
+exclamation of mental relief than a cry of sudden revelation.”
+          – Marcello Gleiser, *The Dancing Universe*
+
+“If someone points out to you that your pet theory of the universe is
+in disagreement with Maxwell’s equations—then so much the worse for
+Maxwell’s equations. If it is found to be contradicted by observation
+—well, these experimentalists do bungle things sometimes. But if your
+theory is found to be against the second law of thermodynamics I can
+give you no hope; there is nothing for it but to collapse in deepest
+humiliation.”    – Arthur Eddington, *The Nature of the Physical World*
+
+“Natural selection is an improbability pump.”
+      – Richard Dawkins, *The Greatest Show on Earth*
+
+“There is a big discrepancy between intuitive physics...and real
+physics, which is just a bunch of differential equations.”
+             – Steven Pinker, *The Stuff of Thought*
+
+“It is sometimes humbling to think that the foundations of common
+sense are just the design specs of one of our organs. Yet our science
+and reason have managed to reveal many aspects of substance, space,
+time, and causality that do violence to common sense but which we can
+see are likely to be true.”   – Steven Pinker, *The Stuff of Thought*
+
+“Somehow, the practice of astronomy, physics, chemistry or biology
+normally fails to evoke the controversies over fundamentals that today
+seem endemic among, say, psychologists or sociologists.”
+  – Thomas Kuhn, *The Structure of Scientific Revolutions*
+
+“The nature of the commitment to a law is very different from
+that of commitment to a definition.”
+  – Thomas Kuhn, *The Structure of Scientific Revolutions*
+
+“After the student has done many problems, he may gain only added
+facility by solving more. But at the start and for some time after,
+doing problems is learning consequential things about nature.”
+  – Thomas Kuhn, *The Structure of Scientific Revolutions*
+
+“The science of Athens, what Einstein called the ancient dream
+that pure thought can grasp reality, is then nothing else than
+the exploration of our remotest past, ‘À la recherche du temps
+perdu’ on a bolder scale than Proust ever imagined.”
+    – Freeman Dyson, *Infinite in All Directions*
+
+“The line between living and non-living at the beginning of evolution
+is arbitrary, just as the line between human and non-human primates
+at the end of evolution is arbitrary. In both cases, we are free to
+draw the line according to our taste. In both cases, the task of
+science is not to define the exaction position of the line, but to
+understand how it came to be crossed.”
+    – Freeman Dyson, *Infinite in All Directions*
+
+“Life depends less on an abundant supply of energy than
+on a good signal-to-noise ratio.”
+    – Freeman Dyson, *Infinite in All Directions*
+
+“Never sacrifice economies of speed [of implementation] to
+achieve economies of scale [that is, of cost].”
+       – Freeman Dyson, *Infinite in All Directions*
+
+“I do not know whether we will actually have space butterflies
+by the year 2010, but we shall have something equally new and
+strange, if only we turn our backs on the past and keep our eyes
+open for the opportunities which are beckoning us into the
+twenty-first century.”
+       – Freeman Dyson, *Infinite in All Directions* (1988)
+
+“If physical theories were people, thermodynamics would be the village
+witch. Over the course of three centuries, she smiled quietly as other
+theories rose and withered, surviving major revolutions in physics,
+like the advent of general relativity and quantum mechanics. The other
+theories find her somewhat odd, somehow different in nature from the
+rest, yet everyone comes to her for advice, and no-one dares to
+contradict her.”
+ – J Goold, et al., “The role of quantum information in thermodynamics”
+
+“Oxytocin…has become one of the stars of the neuroscience show in
+recent years because it has been found to grease the brain’s wheels of
+attachment and trust. Historically, this was considered women’s stuff
+and wasn’t taken very seriously.”  – Susan Pinker, *The Village Effect*
+
+“Science should matter to us not only because it helps us to control
+parts of the world, but also because it shows us things that we will
+never master.”        – Alain de Botton, *Religion for Atheists*
+
+“On one occasion Newton invited some friends to his chamber. As he
+went to his study to fetch more wine, some thought came into his head.
+So absorbed did he become that he completely forgot about the wine and
+his friends waiting downstairs. Either his mind was indeed very far
+away, or the company was extremely boring. Absentmindedness can be a
+very useful skill.”             – Marcello Gleiser, *The Dancing Universe*
+
+“Reevaluations of both the [Michelson-Morley] experiment and the
+theory behind it continue into the specious present to reduce the
+null result.”           – Loyd S Swenson, *The Ethereal Aether*
+
+“Michelson Proves Einstein Theory....Ether-Drift is Confirmed.”
+                         – *New York Times* headline, 9 January 1925
+
+“The world is very complicated and it is clearly impossible for the
+human mind to understand it completely. Man has therefore devised
+an artifice which permits the complicated nature of the world to be
+blamed on something which is called accidental, and thus permits
+him to abstract a domain in which simple laws can be found.”
+                    —Eugene P Wigner, *Symmetries and Reflections*
+
+“The laws of nature are all conditional statements and they relate
+only to a very small part of our knowledge of the world.”
+              —Eugene P Wigner, “The Unreasonable  Effectiveness of
+                                               Mathematics in the Natural Sciences”
+
+“It is not at all natural that ‘laws of nature’ exist, much less that
+man is able to discover them.”
+     —Eugene P Wigner, “The Unreasonable Effectiveness of
+                                      Mathematics in the Natural Sciences”
+
+“It is...a miracle that in spite of the baffling complexity of the
+world, certain regularities in the events could be discovered.”
+          – Eugene P Wigner, paraphrasing Erwin Schrödinger in “The
+Unreasonable Effectiveness of Mathematics in the Natural Sciences”
+
+“Philosophy is the misuse of a terminology which was invented just for
+this purpose.”
+   – Eugene P Wigner, paraphrasing an anonymous writer  in “The
+Unreasonable Effectiveness of Mathematics in the Natural Sciences”
+
+“An expert is someone who knows some of the worst mistakes
+that can be made in his subject and how to avoid them.”
+                          – Werner Heisenberg, *Physics and Beyond*
+
+“It is one of the most painful experiences of my entire scientific
+life that I have...never succeeded in gaining universal recognition
+for a new result, the truth of which I could demonstrate by a
+conclusive, albeit only theoretical proof.”
+        – Max Planck, “A Scientific Autobiography”, tr Frank Gaynor
+
+“Everything that is relative presupposes the existence of something
+that is absolute, and is meaningful only when juxtaposed to something
+absolute.”    – Max Planck, “A Scientific Autobiography”, tr Frank Gaynor
+
+“If a historian wanted to ascribe the decision of Julius Caesar to
+cross the Rubicon not to his political deliberations and to his innate
+temperament, but to free will, his view would be tantamount to a
+renunciation of scientific understanding.”
+      – Max Planck, “Phantom Problems in Science”, tr Frank Gaynor
+
+“Where do you stop, once you’ve learned to drink from abstraction’s
+heady cup?”  – Manil Suri, *The Big Bang of Numbers*
+
+“What would happen if humans became extinct? Would exact triangles
+also cease to exists if nobody was left to envision them?”
+  – Manil Suri, *The Big Bang of Numbers*
+
+“Modern humans live in a way unlike any other creature on earth....Our
+way of living may be terribly unstable. We have been around for only a
+tiny fraction of evolutionary time, and it is not at all clear that we
+will survive as long as our *Homo erectus* ancestors, let alone the
+150 million years that the dinosaurs were around.”
+        – Keith Devlin, *The Math Gene*
+
+"The creation myths of the various peoples and religions of
+the world pale when compared to the glory of the big bang."
+   – Liu Cixin, *The Three-Body Problem*, tr Ken Liu
+
+"Anything sufficiently weird must be fishy."
+   – Liu Cixin, *The Three-Body Problem*, tr Ken Liu
+
+"This is amazing. How did you come into existence?"
+  – Andrea Stocco, personal communication, 11 September 2025
+
+“[Swammerdam’s] return from science to religion personified the
+hesitation of modern man between a search for truth that smiles at
+hope and a retreat to hopes that shy from truth.”
+      – Will and Ariel Durant, *The Age of Louis XIV*
+
+“The scientific legacy of the Middle Ages is modest indeed; yet it
+includes the Hindu numerals, the decimal system, the conception of
+experimental science, substantial contributions to mathematics,
+geography, astronomy, and optics, the discovery of gunpowder, the
+invention of eyeglasses, the mariner’s compass, the pendulum clock,
+and—apparently the most indispensable of all—the distillation of
+alcohol.”      – Will Durant, *The Age of Faith*
+
+“When *Alice* was published and won [Queen Victoria’s] heart, she
+graciously suggested that Mr. Dodgson dedicate his next book to her.
+Unfortunately for Her Majesty, his next book was a mathematical opus
+entitled *An Elementary Treatise on Determinants*.”
+— Alexander Woollcott, introduction to *The Complete Works of Lewis Carroll*
+
+“Mathematicians are machines for turning coffee into theorems.”
+                                                  – Alfréd Rényi
+
+“Anatomists today would be hard put to identify the brain of a visual
+artist, a writer, or a mathematician—but they could recognize the
+brain of a professional musician without a moment’s hesitation.”
+                         – Oliver Sacks, *Musicophilia*
+
+“The obvious mathematical breakthrough would be development of
+an easy way to factor large prime numbers.”
+    – Bill Gates, *The Road Ahead* (original 1995 hardcover edition)
+
+“Science is a journey, but commerce turns it into a destination.
+Science works by making mistakes and building off those mistakes to
+make new mistakes and new discoveries. Commerce hates mistakes;
+mistakes involve liability. A new miracle drug is found and heralded
+and defended until it destroys enough lives to make it economically
+inconvenient to those who created it.”
+   – David Stuart MacLean, the *New York Times*, 7 August 2013
+
+“The prevailing emphasis on mathematical and logical rigor has given
+economics an internal consistency that is missing in other social
+sciences. But there is little value in being consistently wrong.”
+        – John Quiggin, *Zombie Economics*
+
+“The scientific legacy of the Middle Ages is modest indeed; yet it
+includes the Hindu numerals, the decimal system, the conception of
+experimental science, substantial contributions to mathematics,
+geography, astronomy, and optics, the discovery of gunpowder, the
+invention of eyeglasses, the mariner’s compass, the pendulum clock,
+and—apparently the most indispensable of all—the distillation of
+alcohol.”      – Will Durant, *The Age of Faith*
+
+‘[The] “clash” between science and religion...can be traced at least
+as far back as ancient Babylon, where eclipses that had long been
+attributed to restless and malignant supernatural beings were suddenly
+found to occur at predictable intervals—predictable enough to make
+you wonder whether restless and malignant supernatural beings were
+really the problem.’          – Robert Wright, *The Evolution of God*
+
+“Either half my colleagues are enormously stupid, or else the science
+of Darwinism is fully compatible with conventional religious
+beliefs.”           – Stephen Jay Gould, *Scientific American*, July 1992
+
+“Science is everything we know how to explain to a computer,
+and art is everything else.”        – Donald Knuth, during a lecture
+
+“Medicine is a peculiar combination of science and fashion: half
+penicillin, half shoulder pads.”                   – Ann Patchett
+
+
+“Observed from without, the will is causally determined. Observed from
+within, it is free.”
+      – Max Planck, “Phantom Problems in Science”, tr Frank Gaynor
+
+“The law of causality is neither true nor false. It is rather a
+heuristic principle, a signpost...to help us find our bearings in a
+bewildering maze of occurrences.”
+ – Max Planck, “The Concept of Causality in Physics”, tr Frank Gaynor
+
+“It is certainly no wonder that the discovery of...the least-action
+principle...made its discoverer Leibnitz, and soon after him also his
+follower Maupertuis, so boundlessly enthusiastic; for these scientists
+believed themselves to have found in it a tangible evidence for a
+ubiquitous higher reason ruling all nature.”
+        – Max Planck, “Religion and Natural Science”, tr Frank Gaynor
+
+“The greatest genius whom modern Italy gave to science, bowed down by
+illness and infirmity, was obliged under threat of torture and prison
+to ask God’s forgiveness for having led men to a better knowledge of
+his works and for having taught them how to admire him in the
+simplicity of the eternal laws by which he governs the universe.”
+        – Condorcet, /Sketch for a Historical Picture of the Progress
+             of the Human Mind/, tr June Barraclough
+
+“Mathematics is the part of physics where experiments are cheap.”
+      – Vladimir Arnold, “On teaching mathematics”, tr A V Goryunov
+
+“The universe was full of ignorance all around and the scientist
+panned through it like a prospector crouched over a mountain stream
+looking for the gold of knowledge among the gravel of unreason, the
+sand of uncertainty and the little whiskery eight-legged swimming
+things of superstition.”      – Terry Pratchett, *Witches Abroad*
+
+“It is wrong to think that the task of physics is to find out
+how nature is. Physics concerns what we can say about
+nature, nothing more.”         – Niels Bohr,
+    quoted in Aage Peterson, *The Philosophy of Niels Bohr*
+
+“There is no quantum world. There is only an abstract
+quantum mechanical description.”     – Niels Bohr,
+     quoted in Aage Peterson, *The Philosophy of Niels Bohr*
+
+“A desk or table, a chair, paper and pencils. Oh yes, and a large
+wastebasket, so I can throw away all my mistakes.”
+— Albert Einstein, on being asked what he needed in his new office
+    at the Institute for Advanced Study, quoted in Denis Brian,
+    *Einstein: A Life*
+
+“The actual difficulty lies in the fact that physics is a kind of
+metaphysics. Physics describes reality; we know it only through
+its physical description.”
+    – Albert Einstein, letter to Erwin Schrödinger, 17 June 1935.
+
+“I think I can safely say that nobody understands quantum
+mechanics.”  – Richard Feynman, *The Character of Physical Law*
+
+“There is no question that there is an unseen world. The problem
+is how far is it from midtown and how late is it open?”
+     – Woody Allen, quoted in Fred Alan Wolf, *Parallel Universes*
+
+“There’s nothing amazing about size. Turtles are amazing...but the
+fact that there’s a big turtle is far less amazing than the fact there
+there is a turtle.”     – Terry Pratchett, *The Last Hero*
+
+“Physics is a game played with nature, where we try to find out
+what’s inside the box without being allowed to open it.”
+          – Marcello Gleiser, *The Dancing Universe*
+
+“Mysticism, if understood as the embodiment of our irresistible
+attraction to the unknown, plays a fundamental role in the scientific
+creative process of many physicists, past and present.”
+          – Marcello Gleiser, *The Dancing Universe*
+
+“The real constitution of things is accustomed to hide itself.”
+         – Heraclitus, *On Nature*, tr R D Hicks
+
+“There are several references in Bacon’s writing to nature as the
+unruly female that must be conquered by reasoning, which he clearly
+assumed to be a male characteristic. This unfortunate metaphor may
+well have influenced the characterization of science as an exclusively
+male enterpise, as well as the irrational exploitation of nature
+during the Industrial Revolution, both of which survive to our days.”
+          – Marcello Gleiser, *The Dancing Universe*
+
+
+“Although order emerges locally, entropy increases globally. Disorder
+always wins in the end. Sounds depressing? Well, think of the opposite
+alternative; a world of constant entropy is a world with no change;
+everything would either be static or perfectly cyclic, always coming
+back precisely to the point it started, in endless perpetual motion.
+This, I think, is a much more depressing alternative.”
+          – Marcello Gleiser, *The Dancing Universe*
+
+“It wasn’t a dark and stormy night. It should have been, but that’s
+the weather for you. For every mad scientist who’s had a convenient
+thunderstorm just on the night his Great Work is finished and lying
+on the slab, there have been dozens who’ve sat around aimlessly under
+the peaceful stars while Igor clocks up the overtime.”
+      – Neil Gaiman and Terry Pratchett, *Good Omens*
+
+“The anatomist presents to the eye the most hideous and
+disagreeable objects; but his science is useful to the painter
+in delineating even a Venus or an Helen.”
+  – David Hume, *An Enquiry Concerning Human Understanding*
+
+“Gothic architecture was the supreme achievement of the medieval soul.
+The men who dared to suspend those vaults on a few stilts of stone
+studied and expressed their science with greater thoroughness and
+effect than any medieval philosopher in any summa, and the lines and
+harmonies of Notre Dame make a greater poem than The Divine Comedy.”
+                – Will Durant, *The Age of Faith*
+
+“Geography is only physics slowed down, with a few
+trees stuck on it.”                – Terry Pratchett, *Jingo*
+
+“Psychoanalysis is too poor a science to explain the case of Pessoa.”
+        – Richard Zenith, *The Selected Prose of Fernando Pessoa*
+
+“Every great advance in science has issued from a new audacity
+of imagination.”         – John Dewey, *The Quest for Certainty*
+
+“Animals that fly seem to violate the laws of physics, but
+only until you learn a bit more about physics.”
+            – Jonathan Haidt, *The Happiness Hypothesis*
+
+“From the outset, philosophy, metaphysics have
+circled mathematics like a frustrated hawk.”
+        – George Steiner, *The Poetry of Thought*
+
+“Dogs do not eat homework. A dog will throw up if it tries to
+eat any type of homework, especially if it’s a science project”
+    – Trevor Romain, *How to Do Homework Without Throwing Up*
+
+“All metaphysics is a branch of the literature of fantasy.”
+       – George Steiner, *The Poetry of Thought*
+[Cribbing from Borges's "Tlön, Uqbar, Orbis Tertius", albeit
+in a more definitive sense.]
+
+“A handful of social and biological scientists over the last 50 years
+have gradually forced informed people to give up some of the more
+blatant of our biological errors. But there must be still other
+countless errors of the same sort that no living man can yet detect,
+because of the fog within which our type of Western culture envelopes
+us.”  – Gunnar Myrdal, *An American Dilemma*
+
+“Science advances primarily by replacement, not by addition.”
+          – Stephen Jay Gould, *The Mismeasure of Man*
+
+“Science, at bottom, is really anti-intellectual. It always distrusts
+pure reason, and demands the production of objective fact.”
+     – H L Mencken, *Minority Report*
+
+“Kepler doubted astrology, but buttered some bread with it, saying,
+‘As every animal has been given by nature some means of getting a
+living, so the astronomer has been furnished with astrology in order
+to enable him to live.’”
+       – Will and Ariel Durant, *The Age of Reason Begins*
+
+“[Modern minds] have been living upon the accumulated capital of ideas
+provided for them by the genius of the seventeenth century.”
+    – Alfred North Whitehead, *Science and the Modern World*
+
+‘“Truth,” even in science, wilts like a flower.’
+      – Will and Ariel Durant, *The Age of Louis XIV*
+
+“I have yet to meet a successful scientist who lacks the ability to
+exaggerate the importance of what he or she is doing, and I believe
+that someone who lacks a delusional sense of significance will wilt in
+the face of repeated experiences of multiple small failures and rare
+successes, the fate of most researchers.”
+    – Daniel Kahneman, *Thinking, Fast and Slow*
+
+“Behavioral science is not for sissies.”
+       – Steven Pinker, *The Blank Slate*
+
+“Astonishingly, the degree of variability [round worms] exhibit
+in longevity is not much less than that of a genetically
+mixed population of humans, who eat a variety of diets, attend
+to or abuse their health, and are subject to all the vagaries
+of circumstance—car crashes, tainted beef, enraged postal workers—
+of modern industrialized life.”
+    – S Austad, “Varied fates from similar states,”
+       *Science*, 290.
+
+“Art without science is poverty, and science without
+art is barbarism.”       – Will Durant, *Fallen Leaves*
+
+“It is a real puzzle for the science of mind why, when an unpleasant
+event befalls us—we slice our thumb along with the bagel, or knock
+a glass of beer into our lap—the topic of our conversation turns
+abruptly to sexuality, excretion or religion.”
+   – Steven Pinker, *The Stuff of Thought*
+
+“Brains are built with a rule of thumb such as ‘If you
+experience the sensation of pain, stop whatever you are
+doing and don’t do it again.’ It remains a matter for
+interesting discussion why it has to be so damned painful.”
+      – Richard Dawkins, *The Greatest Show on Earth*
+
+“The difference between life and non-life is a matter
+not of substance but of information.”
+      – Richard Dawkins, *The Greatest Show on Earth*
+
+
+“Anyone who believes that the laws of physics are mere social
+conventions is invited to try transgressing those conventions from
+the windows of my apartment.”
+  – Alan Sokal, “A Physicist Experiments with Cultural Studies,”
+    *Lingua Franca*, 15 April 1996.
+
+“Physics, chemistry, biochemistry, and molecular biology accept in
+principle that the most complex events can be reduced to the laws of
+quantum physics, but they carry out the reduction in stages, inserting
+four or five layers of theory between gross biological phenomena and
+the submicroscopic events of elementary particles. Analogously for
+psychology, a theory at the level of symbols, located midway between
+complex thought processes and neurons, is essential.”
+            – Herbert Simon, *Models of My Life*
+
+“From the beginning we were interested in simulating human problem
+solving, and not simply in demonstrating how computers could solve
+hard problems.”          – Herbert Simon, *Models of My Life*
+
+“The true line is not between ‘hard’ natural science and ‘soft’ social
+sciences, but between precise science limited to highly abstract and
+simple phenomena in the laboratory, and inexact science and technology
+dealing with complex problems in the real world.”
+                 – Herbert Simon, *Models of My Life*
+
+“Each of these views has been held by an important segment of the
+cognitive science community, and the two segments do not often
+communicate with each other, except sometimes to quarrel.”
+      – Herbert Simon, *Models of My Life*
+
+“Apple’s typography guidelines suggest that developers aim for [at
+least] a 7:1 contrast ratio. But what ratio, you might ask, is the
+text used to state the guideline? It’s 5.5:1.”
+        – Kevin Marks, “How the Web Became Unreadable”
+
+“If the scientists have the future in their bones, then the traditional
+culture responds by wishing the future did not exist.”
+                             – C P Snow, *The Two Cultures*
+
+“Undistracted by schooling, one studies best during vacations.”
+   – Carlo Rovelli, *Seven Brief Lessons on Physics*,
+       tr Simon Carnell and Erica Segre
+
+“You would need, of course, to study and digest Riemann’s mathematics
+in order to master the technique to read and use [Einstein’s field
+equations]. It takes a little commitment and effort. But less than is
+necessary to come to appreciate the rarefied beauty of a late
+Beethoven string quartet. In both cases the reward is sheer beauty and
+new eyes with which to see the world.”
+   – Carlo Rovelli, *Seven Brief Lessons on Physics*,
+       tr Simon Carnell and Erica Segre
+
+“Before experiments, measurements, mathematics, and rigorous
+deductions, science is above all about visions.”
+   – Carlo Rovelli, *Seven Brief Lessons on Physics*,
+       tr Simon Carnell and Erica Segre
+
+“[Renormalization] works in practice but leaves a bitter taste in the
+mouth.”        – Carlo Rovelli, *Seven Brief Lessons on Physics*,
+                   tr Simon Carnell and Erica Segre
+
+“Mirrored by others, and by other things, we learn who we are.”
+      – Carlo Rovelli, *Seven Brief Lessons on Physics*,
+          tr Simon Carnell and Erica Segre
+
+“Every complex process can be addressed and understood in different
+languages and at different levels.”
+      – Carlo Rovelli, *Seven Brief Lessons on Physics*,
+          tr Simon Carnell and Erica Segre
+
+“Our moral values, our emotions, our loves are no less real for being
+part of nature, for being shared with the animal world, or for being
+determined by the evolution that our species has undergone over
+millions of years. Rather they are more valuable as a result of this:
+they are real.”    – Carlo Rovelli, *Seven Brief Lessons on Physics*,
+                      tr Simon Carnell and Erica Segre
+
+“We are perhaps the only species on Earth to be conscious of the
+inevitability of our individual mortality. I fear that soon we
+shall also have to become the only species that will knowingly
+watch the coming of its own collective demise.”
+         – Carlo Rovelli, *Seven Brief Lessons on Physics*,
+             tr Simon Carnell and Erica Segre
+
+“Life is precious to us because it is ephemeral.”
+      – Carlo Rovelli, *Seven Brief Lessons on Physics*,
+          tr Simon Carnell and Erica Segre
+
+“The only constructive theory connecting neuroscience and psychology
+will arise from the study of software.”
+                     – Alan Perlis, “Epigrams in Programming”
+
+“If science teaches us anything, it teaches us to accept our failures,
+as well as our successes, with quiet dignity and grace.”
+        – Gene Wilder and Mel Brooks, *Young Frankenstein*
+
+“Strong reductionism is not a scientific theory: it is a metaphysical
+program…. Its professed aim is to unify science on the basis of the
+established model of mathematical physics. Its real role is to
+insulate this model from attack by presenting it as the gold standard
+of scientific exploration.”
+       – Roberto Mangabeira Unger,
+             *The Singular Universe and the Reality of Time* (I)
+
+“To think of the universe as a whole rather than of something within
+the universe is one of the two most ambitious tasks that thought can
+undertake. Nothing matches it in ambition other than our attempts to
+form a view of ourselves.”
+       – Roberto Mangabeira Unger and Lee Smolin
+             *The Singular Universe and the Reality of Time*
+
+“I feel that the agenda of life’s important issues has moved from
+novelists to science writers, because they know more.”
+                     – Douglas Adams, *The Salmon of Doubt*
+
+“By and large it is uniformly true in mathematics that there is a time
+lapse between a mathematical discovery and the moment when it is
+useful; and that this lapse of time can be anything from 30 to 100
+years, in some cases even more.”
+  – John von Neumann, “The Role of Mathematics in the Sciences
+                       and in Society”
+
+“Any discussion of the nature of intellectual effort in any field is
+difficult, unless it presupposes an easy, routine familiarity with
+that field. In mathematics this limitation becomes very severe.”
+      – John von Neumann, “The Mathematician”
+
+“You should call it entropy … no one really knows what entropy really
+is, so in a debate you will always have the advantage.”
+   – John von Neumann to Claude Shannon,
+     quoted in *Scientific American*, September, 1971
+
+“In mathematics you don't understand things. You just get used to them.”
+   – John von Neumann to Claude Shannon, quoted by Gary Zukav,
+                                         *The Dancing Wu Li Masters*
+
+“With four parameters I can fit an elephant, and with five I can make
+him wiggle his trunk.”
+  – attributed to John von Neumann by Enrico Fermi, as quoted
+    by Freeman Dyson, *Nature*, 22 January 2004
+
+“men only disagree / Of creatures rational”
+  – John Milton, *Paradise Lost*
+
+“Social scientists should never predict the future; it’s
+hard enough to predict the past.”
+      – Steven Pinker, *The Better Angels of Our Nature*
+
+“When psychologists are confronted with a timeless
+mystery, they run an experiment.”
+      – Steven Pinker, *The Better Angels of Our Nature*
+
+‘Perhaps “thinking out of the box” has become rare
+because the Internet is itself a box.’
+ – Donald Geman and Stuart Geman, “Science in the age of selfies”
+
+“If you are … in an environment where you don't have to make
+assumptions during programming that you might have to change
+later you might be freer to use a language without compile-
+time computing. I've never seen good specs before I started
+coding, though, not even in physics. We know nothing.”
+   – Martin Cracauer, on the pro@common-lisp.net mailing list
+
+“When I heard the learn’d astronomer, / When the proofs, the figures,
+were ranged in columns before me, / When I was shown the charts and
+diagrams, to add, divide, and measure them, / When I sitting heard the
+astronomer where he lectured with much applause to the lecture room, /
+How soon unaccountable I became tired and sick, / Till rising and
+gliding out I wander’d off by myself, / In the mystical moist
+night-air, and from time to time, / Look’d up in perfect silence at
+the stars.”       – Walt Whitman, *Drum-taps*
+
+“While science and technology play critical roles in sustaining modern
+civilization, they are not part of our culture in the sense that they
+are not commonly studied or well comprehended…. It frequently appears
+that some people will believe almost anything. Thus judgments can be
+manipulated or warped by unscrupulous groups. Distortions or outright
+falsehoods can come to be accepted as fact.”
+   – Henry Ward Kendall, *A Distant Light*
+
+“Engineering is too important to wait for science.”
+      – Benoît Mandelbrot, "Fractal Finance"
+
+“Behavioral scientists often disagree over not only the facts but also
+over what is worth studying in the first place. What one school of
+thought dismisses as a minor anomaly of no conceivable interest to any
+gainfully employed grown-up, another school elevates to center
+stage.”     – Philip E Tetlock, *Expert Political Judgment*
+
+“Failing to learn everything is not tantamount to learning
+nothing.”     – Philip E Tetlock, *Expert Political Judgment*
+
+“Science is the knowledge of Consequences, and dependence of one fact
+upon another: by which, out of that we can presently do, we know how
+to do something else when we will, or the like, another time.”
+                 – Thomas Hobbes, *Leviathan*
+
+“Learning from the past is hard, in part, because history
+is a terrible teacher. By the generous standards of the
+laboratory sciences, Clio is stingy in her feedback.”
+         – Philip E Tetlock, *Expert Political Judgment*
+
+“Whatever the formal logical status, counterfactual
+beliefs often feel factual to their holders.”
+       – Philip E Tetlock, *Expert Political Judgment*
+
+“Science explained people, but could not understand them.”
+       – E M Forster, *Howards End*
+
+“Whatever has the air of a paradox, and is contrary to the first and
+most unprejudiced notions of mankind, is often greedily embraced by
+philosophers, as shewing the superiority of their science.”
+          – David Hume, *A Treatise of Human Nature*
+
+“Progress in knowledge, science, comforts, and power is only progress
+in means; if there is no improvement in ends, purposes, or desires,
+progress is a delusion.”  – Will and Ariel Durant, *The Age of Voltaire*
+
+“The influence of science, strange to say, was least and last upon
+technology. Man’s ways of sowing and reading, mining and
+manufacturing, building and transporting, had been formed through
+centuries of trial and error, and traditions and inertia only
+reluctantly accepted improvements suggested by laboratory experiments;
+not till the end of this era did science accelerate the Industrial
+Revolution.”       – Will and Ariel Durant, *The Age of Voltaire*
+
+“Two priesthoods came into conflict: the one devoted to the molding of
+character through religion, the other to the education of the
+intellect through science. The first priesthood predominates in ages
+of poverty or disaster, when men are grateful for spiritual comfort
+and moral order; the second in ages of progressive wealth, when men
+incline to limit their hopes to the earth.”
+          – Will and Ariel Durant, *The Age of Voltaire*
+
+“Of all the audacities of science the most daring is the attempt to
+fling its measuring rods around the stars, to subject those
+scintillating beauties to nocturnal spying, to analyze their
+constituents across a billion miles, and to confine their motions to
+man-made logic and laws. Mind and the heavens are the poles of our
+wonder and study, and the greatest wonder is mind legislating for the
+firmament.”             – Will and Ariel Durant, *The Age of Voltaire*
+
+“The sweetest and most inoffensive path of life leads through the
+avenues of science and learning; and whoever can either remove any
+obstructions in this way, or open up any new prospect, ought so far to
+be esteemed a benefactor to mankind.”
+       – David Hume, *An Enquiry Concerning Human Understanding*
+
+“Accuracy is, in every case, advantageous to beauty, and just
+reasoning to delicate sentiment.”
+       – David Hume, *An Enquiry Concerning Human Understanding*
+
+“The philosopher should not be the inventor of systems but the
+apostle of truth.” – Gaetano Filangieri, *The Science of Legislation*
+
+“Perhaps the poet [Goethe] was right in thinking that the chief aim
+of science should not be to equip old desires with new tools, but to
+enlarge wisdom with knowledge for the enlightenment of desire.”
+         – Will and Ariel Durant, *Rousseau and Revolution*
+
+“The work of science, though ultimately exciting, is mostly
+painstakingly methodical and boring. But that is the price we
+pay because we don’t just want to believe. We want to know.”
+       – Adam Frank, the *New York Times*, 30 May 2021
+
+“The American game of football is my favorite sport to
+watch, because of the variety of behavior exhibited.”
+ – A Zee, *Fearful Symmetry: The Search for Beauty in Modern Physics*
+
+“Here, the reader will find no narcissistic cry of mathematics for
+mathematics’ sake. To the contrary, we physicist-chauvinst-pigs regard
+mathematics as the mere handmaiden of physics. Flights of mathematical
+fancy are tolerated only insofar as they are tethered to observable
+physical phenomena.”
+        – Sheldon Glashow, introduction to Howard Georgi,
+          *Lie Algebras in Particle Physics*
+
+“I think that group theory, perhaps because it seems to give
+information for free, has been more misued in contemporary
+particle physics than any other branch of mathematics, except
+geometry. Students should learn the difference between physics
+and mathematics from the start.”
+    – Howard Georgi, *Lie Algebras in Particle Physics*
+
+“It is easy to produce complicated behavior with a
+complicated design…. Nature, whose complexity emerges
+from simplicity, is cleverer.”   – A Zee, *Fearful Symmetry*
+
+“Experimental and theoretical pysics attract rather different
+personality types, with different temperaments and abilities.
+Sociologits should find here a ripe field for a fruitful study.”
+      – A Zee, *Fearful Symmetry*
+
+“I am not particularly interested in the details of how the K meson
+decays—in itself, that is no more interesting than, say, the
+behavior of chemicals with unpronounceable names.”
+      – A Zee, *Fearful Symmetry*
+
+“The mind of God appears to be abstract but not complicated. He
+also appears to like group theory.”   – A Zee, *Fearful Symmetry*
+
+“Bohr’s contemporaries found it extremely difficult to swallow this
+picture, but they had no real choice in the face of the overwhelming
+experimental fact that the world has been around for quite a while.”
+      – A Zee, *Fearful Symmetry*
+
+“The uranium nucleus, with its 92 protons and its 140 (or so)
+neutrons, is prone to fission at the drop of a hat. The electric
+repulsion tears the nucleus apart and in the process liberates a
+certain amount of energy that we humans have tried to put to a
+variety of uses, some more sensible than others.”
+      – A Zee, *Fearful Symmetry*
+
+“As an indication of the confused experimental situation in the early
+1960s, consider the fact that of twenty-six hadrons (with certain
+properties) listed in a survey published in 1963, nineteen are now
+known not to exist.”      – A Zee, *Fearful Symmetry*
+
+“Quarks behave like some lovers. When they are far apart they pine
+for each other with zeal, vowing that no one can ever separate them.
+But once they get close to each other, they replace their ardor with
+indifference and barely communicate with each other.”
+      – A Zee, *Fearful Symmetry*
+
+“Those of us who aspire to be fundamental physicists must spend
+a considerable amount to time learning how to add an infinite
+number of amplitudes together.”      – A Zee, *Fearful Symmetry*
+
+‘When He supposedly said, “Let there be light!” perhaps He actually
+said, “Let there be an SU(5) Yang-Mills theory with all its gauge
+bosons, let the symmetry be broken down spontaneously, and let all but
+one of the remaining massless gauge bosons be sold into infrared
+slavery. That one last gauge boson is my favorite. Let him rush forth
+to illumnate all of my creations!”’    – A Zee, *Fearful Symmetry*
+
+“There are two striking facts about the universe we live in:
+(1) The universe is not empty of matter; and (2) the universe
+is almost empty of matter.”      – A Zee, *Fearful Symmetry*
+
+‘The “paradox” is only a conflict between reality and
+your feeling of what reality “ought to be.”’
+    – Richard Feynman, *The Feynman Lectures on Physics*
+
+“If I were forced to sum up in one sentence what the Copenhagen
+interpretation [of quantum mechanics] says to me, it would be ‘Shut up
+and calculate!’”    – N David Mermin, *Physics Today*, April 1989,
+                      though frequently misattributed to Richard Feynman
+
+“All science is either physics or stamp collecting.”
+  – attributed to Ernest Rutherford by J B Birks
+    in *Rutherford at Manchester*
+
+“I had spent six years slugging my way through many dozens of physics
+textbooks that were carefully written with the best of pedagogical
+plans, but there was something missing. Physics is the most
+interesting subject in the world because it is about how the world
+works, and yet the textbooks had been thoroughly wrung of any
+connection with the real world. The fun was missing.”
+  – the preface to the 10th edition of Halliday and Resnick’s
+    *Fundamentals of Physics*
+
+a
+“Physicists use the wave theory on Mondays, Wednesdays and Fridays
+and the particle theory on Tuesdays, Thursdays and Saturdays.”
+    – attributed to William Henry Bragg by Alan L Mackay
+
+“Mathematical physics represents the purest image that the view of
+nature may generate in the human mind…. This image is to physical
+nature what music is to the thousand noises of which the air is
+full.”  – attributed to Théophile de Donder by Ilya Prigogine in
+          the latter’s 1977 Nobel Prize autobiographical statement
+
+“Every mathematician knows it is impossible to understand
+an elementary course in thermodynamics.”
+          – V I Arnold, “Contact geometry”
+
+“Thermodynamics is a funny subject. The first time you go through it,
+you don't understand it at all. The second time you go through it, you
+think you understand it, except for one or two small points. The third
+time you go through it, you know you don't understand it, but by that
+time you are so used to it, it doesn't bother you any more.”
+  – attributed to Arnold Sommerfeld by Salvatore Califano, in
+    *Pathways to Modern Chemical Physics*
+
+“Nothing in life is certain except death, taxes and the second
+law of thermodynamics.”    – Seth Lloyd, *Nature*, 26 August 2004
+[Unless you are *Turritopsis dohrnii*, in which case only one of
+the above is unavoidable.]
+
+“It’s the Second Law of Thermodynamics: Sooner or later
+everything turns to shit.”   – Woody Allen, *Husbands and Wives*
+
+“S happens.”
+  – an anonymous observation on the second law of thermodynamics
+
+“If you think things are in a mess now, just wait.”
+  – an anonymous observation on the second law of thermodynamics
+
+“Pysicists and mathematicians have settled on a fine division of
+labor in which the former complain about the finickiness of the
+latter, and the latter complain about the sloppiness of the former.”
+    – Sabine Hossenfelder, *Lost in Math*
+
+“Results in psychology…are hard to reproduce because no two people
+are alike, and it is rarely known exactly which human quirks might
+play a role. But that’s a problem we don’t have in physics. Helium
+atoms don’t get hungry and are just as well-tempered on Monday as
+on Friday.”    – Sabine Hossenfelder, *Lost in Math*
+
+“When I was in school I hated history, but since then I have
+come to recognize the usefulness of quoting dead people to
+support my convictions.”   – Sabine Hossenfelder, *Lost in Math*
+
+“Infinite bases have nothing to do with ‘infinite linear
+combinations.’ The reader who feels an irresistible urge to inject
+power series into this example should study the example carefully
+again. If that does not effect a cure, he should consider restricting
+his attention to finite-dimensional spaces from now on.”
+    – Kennth Hoffman and Ray Kunze, *Linear Algebra*
+
+“I’m too early, and so Ι seek out the library down the hallway.
+Familiar books greet me. The wooden floor squeaks, and I stop
+moving, not wanting to interrupt the potentially world-changing
+thoughts. It smells like science, by which I mean coffee.”
+   – Sabine Hossenfelder, *Lost in Math*
+
+“There are lots of diseases in academia, and one of them
+is that you keep doing what you’ve been doing.”
+   – Sabine Hossenfelder, *Lost in Math*
+
+“The human idea of simplicity is…very much based on ease of
+applicability, which is closely tied to our ability to grasp
+an idea, hold it in mind, and push it around until a paper
+falls out.”         – Sabine Hossenfelder, *Lost in Math*
+
+“In the multiverse of eternal inflation, with an infinite number of
+recurrences launched by random, quantum fluctuations, anything that
+can happen will eventually happen. Eternal inflation therefore implies
+that there are universes in which the history of mankind plays out in
+any way that is compatibile with the laws of nature. In some of them
+this will make sense to you.”    – Sabine Hossenfelder, *Lost in Math*
+
+“Theoretical physicists used to explain what was observed. Now they
+try to explain why they can’t explain what was not observed.”
+        – Sabine Hossenfelder, *Lost in Math*
+
+“When people tell you something’s wrong or doesn’t work for them, they
+are almost always right. When they tell you exactly what they think is
+wrong and how to fix it, they are almost always wrong.”
+ – Neil Gaiman,  “Rules for Writing”, *The Guardian*, 19 Feburary 2010
+
+“Physicists don’t have a lot of business with the science of
+self-aware conscious beings.”    – Sabine Hossenfelder, *Lost in Math*
+
+“These are just the main interpretations of quantum mechanics.
+There are more, and each of them can be in several different
+states at the same time.”   – Sabine Hossenfelder, *Lost in Math*
+
+‘“The difficultty, of course, is that you don’t have to settle these
+issues,” Weinberg continues. “I’ve had a whole career without knowing
+what quantum mechanics is….My colleague Philip Candelas was referring
+to a graduate studen whose career essentially disintigrated, and I
+asked him what went wrong and he said ’He tried to understand quamtum
+mechanics.’ He could have had a perfectly good career without it. But
+getting into the fundamentals of quantum mechanics is a losing game.”
+(If you quote this, you can be the first person to quote someone
+quoting someone quoting himself quoting someone.)’
+                – Sabine Hossenfelder, *Lost in Math*
+
+“All these clues [pointing to supersymmetry] could be misleading, but
+that would be a really cruel joke by Mother Nature—and in really bad
+taste on her part.”
+     – Frank Wilczek, “Physicist’s nightmare scenario: the Higgs and
+       nothing else,” *Science*, 315:1657–1658 (2007)
+
+“String theory is attractive because it offers jobs….String theory is
+cheap. If you are the chairperson of a physics department in a remote
+place without much money you cannot afford…experimental physics, but
+you can afford to hire a couple of string theorists…and have a modern
+physics department.”  – Freeman Dyson, “Birds and Frogs,”
+                        *Notices of the AMS*, 56(2):221 (2009)
+
+“You’d think that scientists, with the professional task of being
+objective, would protect their creative freedom and rebel against
+the need to please colleagues in order to secure continued funding.
+They don’t”          – Sabine Hossenfelder, *Lost in Math*
+
+“Almost all scientists today have an undisclosed conflict of interest
+between funding and honesty.”    – Sabine Hossenfelder, *Lost in Math*
+
+“You can be wrong with math. But you can’t lie. And it’s true—
+you can’t lie with math. But it greatly aids obfuscation.”
+        – Sabine Hossenfelder, *Lost in Math*
+
+“It is hardly surprising that physicists find beauty in the laws
+of nature. If you sat through math class seeing equations as
+unsightly scribbles, you probably didn’t go on to become a
+theoretical physicist.”     – Sabine Hossenfelder, *Lost in Math*
+
+“If there isn’t a cognitive bias for trying to kill too many birds
+with one stone, there should be one.”
+       – Sabine Hossenfelder, *Lost in Math*
+
+“Physics isn’t math. It’s choosing the right math.”
+                 – Sabine Hossenfelder, *Lost in Math*
+
+“Unlike physicists, mathematicians take paradoxes seriously.”
+   – Hongyu Guo, *What Are Tensors Exactly?*
+
+a
+“In the 1970s, it became clear that the clocks participating in TAI
+[essentially UTC without the leap seconds] were ticking at different
+rates due to gravitational time dilation, and the combined TAI scale,
+therefore, corresponded to an average of the altitudes of the various
+clocks. Starting from the Julian Date 2443144.5 (1 January 1977
+00:00:00), corrections were applied to the output of all participating
+clocks, so that TAI would correspond to proper time at the geoid (mean
+sea level). Because the clocks were, on average, well above sea level,
+this meant that TAI slowed by about one part in a trillion.”
+  – *Wikipedia*, paraphrasing the considerably geekier presentation
+    in Dennis McCarthy and Kenneth Seidelmann, *Time: From Earth
+    Rotation to Atomic Physics*
+
+“It’s actually bad luck to say ‘MacBook’ inside an office.
+You have to call it ‘The Scottish Laptop.’”
+     – Nathalie Kernot, *Twitter*, 12 April 2022
+
+“Despite initial reluctance to accept time determined by means other
+than from astronomical observations of the Earth’s rotation, atomic
+time began to be accepted gradually…. [Finally] it was formally
+adopted as the unit of time in 1968 with only one abstention, the
+representative of the Greenwich Observatory, I regret to say.”
+          – Dennis McCarthy and Kenneth Seidelmann,
+            *Time: From Earth Rotation to Atomic Physics*
+
+“Humans have free will, unfortunately.”
+    – Christian Lebiere, personal communication, 10 May 2022
+
+“For a hypothetical gaseous but intelligent citizen of Jupiter or of a
+hydrogen cloud somewhere in the galactic center, the properties of
+ordinary crystals might well be a more baffling and intriguing puzzle
+than those of superfluid helium.”
+    – P W Anderson, “More is Different”, *Science*, 4 August 1972
+
+“Like Stephen Hawking’s editor’s motto that every equation halves your
+sales, every parameter halves the chance of getting the experiment
+right.”    – Christian Lebiere, personal communication, 11 August 2022
+
+“Physicists are really good at answering questions, but really
+bad at explaining why anyone should care about their answers.”
+    – Sabine Hossenfelder, *Existential Physics*
+
+“I think Max Tegmark came up with the mathematical universe
+hypothesis only to make sure everyone knows he is a seriously
+weird fellow. He was probably successful at that.”
+          – Sabine Hossenfelder, *Existential Physics*
+
+“You can find many different diagnoses in death certificates, but
+they’re just details. What really kills us is entropy increase.”
+          – Sabine Hossenfelder, *Existential Physics*
+
+“I believe [Boltzman brains] fail the Monty Python
+test: Stop that! That’s just too silly!”
+ – Seth Lloyd, quoted by Lisa Grossman, the *New Scientist*, 14 May 2014
+
+“Academia is full of genteel savagery.”
+    – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“Statistics, as frequently practiced, discourages [scientific
+thinking] and encourages ‘canned’ procedures instead. Scientists
+will always prefer routine calculation on data to methods that
+challenge their scientific knowledge.”
+    – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“We probably will not succeed in creating humanlike intelligence
+until we can create childlike intelligence.”
+      – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“In both a cognitive and a philosophical sense, the idea of causes
+and effects is much more fundamental than the idea of probability.”
+      – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“The virtuous man contents himself with dreaming
+that which the wicked man does in actual life.”
+  – Sigmund Freud, *The Interpretation of Dreams*, paraphrasing Plato
+
+“Though Haraclitus didn’t actually write [‘You could not step twice
+into the same river’]. Is a quote in which word after word has been
+replaced until none of the original words remain still the same quote?
+The answer is left as an exercise for the reader.”
+          – Sabine Hossenfelder, *Existential Physics*
+
+“There are no exact metaphors, not for quantum mechanics and not
+for anything else, because if they were exact, they wouldn’t be
+metaphors.”          – Sabine Hossenfelder, *Existential Physics*
+
+“String theorists originally hoped they’d be able to calculate
+the constants of nature. That didn’t pan out, so now they argue
+that if they can’t calculate the constants, that must mean all
+possible values exists somewhere in a multiverse.”
+       – Sabine Hossenfelder, *Existential Physics*
+
+“We don’t yet know exactly how to define consciousness, or exactly
+which brain functions are necessary for it, but it’s a property we
+observe exclusively in physical system. Because, well, we observe
+only physical systems. If you think your own thoughts are an
+exception to this, try thinking without your brain. Good luck.”
+       – Sabine Hossenfelder, *Existential Physics*
+
+“If you stop a statistician in the street and ask, ‘What does
+confounding mean to you?’ you will probably get one of the most
+convoluted and confounded answers you ever heard from a scientist.”
+      – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“The smoking-cancer debate was unusually personal
+for many of the scientists who participated in it.”
+      – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“Logic void of representation is metaphysics.”
+      – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“When reading a scientific article, I often catch myself jumping
+from formula to formula, skipping the words altogether. To me, a
+formula is a baked idea. Words are ideas in the oven.”
+      – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“Artificial intelligence has turned out to be a more elusive goal
+than Turing ever suspected, even though the sheer computational
+power of computers has no doubt exceeded his expectations.”
+      – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“As science fiction has shown over and over again, Asimov’s
+laws always lead to contradictions. To AI scientists this
+comes as no surprise: rule-based systems never turn out well.”
+      – Judea Pearl and Dana Mackenzie, *The Book of Why*
+
+“A good scientific idea has to be falsifiable. Particle
+physicists seem to have misconstrued this to mean that
+any falsifiable idea is also good science.”
+     – Sabine Hossenfelder, the *Guardian*, 26 September 2022
+
+“For the last century the biggest bar fight in science has been
+between Albert Einstein and himself.”
+    – Dennis Overbye, the *New York Times*, 10 October 2022
+
+“Humans today rely on cognitive faculties that worked well enough in
+traditional societies, but which we now see are infested with bugs....
+They are not so much intuitive scientists as intuitive lawyers and
+politicians.”       – Steven Pinker, *Enlightenment Now*
+
+“If you had to choose one moment in history in which to be born, and
+you didn't know in advance whether you were going to be male or
+female, which country you were going to be from, what your status was,
+you'd choose right now.”
+    – Barack Obama, keynote address to the Goalkeepers 2017 conference
+
+“A quantitative mindset, despite its nerdy aura, is in fact the
+morally enlightened one, because it treats every human life as having
+equal value rather than privileging the people who are closest to us
+or most photogenic.”     – Steven Pinker, *Enlightenment Now*
+
+“Life pits biology against physics in mortal combat.”
+  – Peter Hoffman, “Physics Makes Aging Inevitable”,
+                   *Nautilus*, 12 May 2016
+
+“Three quarters of Americans believe in at least one phenomenon that
+defies the laws of science, including psychic healing (55 percent),
+extrasensory perception (41 percent), haunted houses (37 percent) and
+ghosts (32 percent)—which also means that some people believe in
+houses haunted by ghosts without believing in ghosts.”
+    – Steven Pinker, *Rationality*, citing statistics from a Gallup
+      poll described by D W Moore, 2005
+
+“This book is not a reference, but a course. It doesn’t try to
+support random access. Rather, it expects sequential access. This
+has immense pedagogical advantages, but it has the disadvantage
+of violating how most scientists actually read books.”
+        – Richard McElreath, *Statistical Rethinking*
+
+“Mistaking a nonrandom *pattern* for a nonrandom *process* is one of
+the thickest chapters in the annals of human folly, and knowing the
+difference between them is one of the greatest gifts of rationality
+that education can confer.”    – Steven Pinker, *Rationality*
+
+a
+“Any theory that can account for all the facts is wrong, because
+some of the facts are wrong.”       – attributed to Francis Crick
+
+“In the world in which we evolved and most of the world in which
+we spend our days, it makes no sense to ignore everything you know.
+It does make sense in certain unnatural worlds—logic courses,
+brainteasers, computer programming, legal proceedings....”
+     – Steven Pinker, *Rationality*
+
+“The physics of undergraduate text-books is 90% true; the contents
+of the primary research journals of physics is 90% false.”
+  – John Ziman, *Reliable Knowledge*
+
+“Some theories are unlovable. No one has much affection for
+the laws of thermodynamics.”  – Steven Pinker, *Rationality*
+
+“In cognitive science and behavioral economics, showing all
+the ways in which people flout the axioms of rational choice
+has become something of a sport.”    – Steven Pinker, *Rationality*
+
+“An infinite number of curves can be drawn through any finite
+set of points; an unlimited number of theories are logically
+consistent with any body of data.”  – Steven Pinker, *Rationality*
+
+“It is important to realize how profound Planck’s insight [natural
+units] was. Nature herself, far transcending any silly English King or
+some self-important French revolutionary committee, gives us a set of
+units to measure her by.”  – A Zee, *Einstein Gravity in a Nutshell*
+
+“This not sufficiently described as a change from dogmatism to
+empiricism. Mere empiricists like Telesius or Bacon achieved nothing.
+What was fruitful in the thought of the new scientists was the bold
+use of mathematics in the construction of hypotheses, test not by
+observation simply but by controlled observation of phenomena that
+could be precisely measured.”
+    – C S Lewis,  *English Literature in the Sixteenth Century*
+
+“The reason is not clear, but it seems to be true that
+mathematicians do some of their most valuable practical
+work when thinking about problems that appear to have
+nothing whatever to do with physical reality.”
+  – George F Simmons, *Differential Equations With Applications*,
+     when discussing the applicability of the work of 19th century
+     mathematician Charles Hermite to quantum mechanics
+
+“We have lost the art of living; and in the most important science
+of all, the science of daily life, the science of behavior, we are
+complete ignoramuses. We have psychology instead.”
+        – D H Lawrence, *Sketches of Etruscan Places*
+
+“The more the elementary particle physicists tell us about
+the nature of the fundamental laws, the less relevance they
+seem to have to the very real problems of the rest of science,
+much less to those of society.”
+   – P W Anderson, “More is Different”, *Science*, 4 August 1972
+
+“In the biological realm, it is the local rules of particular
+environments, not the universal rules of physics, that determine
+what survives. And the biological rules are much more persnickety.
+Don’t expect a giraffe to survive underwater.”
+      – David Christian, *Origin Story*
+
+“If we meet living organisms elsewhere in our galaxy, we
+probably won’t be shaking hands with them but peering at
+them through a microscope.”   – David Christian, *Origin Story*
+
+“Today, the biosphere has 30 tons of bacteria and archaea for
+every ton of animal.”  – Andrew Knoll, *A Brief History of Earth*
+
+“Over billions of years, Earth’s first simple organisms have
+given rise to a staggering diversity of species, including one
+with the audacity to ask how we got here.”
+      – Andrew Knoll, *A Brief History of Earth*
+
+“When sputnik and Apollo 11 fired the imagination of the world,
+everyone began predicting that by the end of the century, people
+would be living in space colonies on Mars and Pluto. Few of these
+forecasts came true. On the other hand, nobody foresaw the Internet.”
+        – Yuval Noah Harari, *Sapiens*
+
+“Today, a single affluent family generally has more
+timepieces at home than an entire medieval country.”
+        – Yuval Noah Harari, *Sapiens*
+
+“Rats and cockroaches, for example, are in their heyday. These
+tenacious creatures would probably creep out from beneath the smoking
+rubble of a nuclear Armageddon, ready and able to spread their DNA.
+Perhaps 65 million years from now, intelligent rats will look back
+gratefully on the decimation wrought by humankind, just as we today
+can thank that dinosaur-busting asteroid.”
+        – Yuval Noah Harari, *Sapiens*
+
+“For decades, aluminium was much more expensive than gold. In the
+1860s, Emperor Napoleon III of France commissioned aluminium cutlery
+to be laid out for his most distinguished guests. Less important
+visitors had to make do with the gold knives and forks.”
+        – Yuval Noah Harari, *Sapiens*
+
+“Physics rests on the democratic ideal.... It should not depend
+on the observer.”   – A Zee, *Einstein Gravity in a Nutshell*
+[It amuses me that this is a 900 page nutshell.]
+
+“History warns us that it is the customary fate of new truths to begin
+as heresies.”  – Thomas Huxley, “The Coming of Age of the Origin of
+                 Species,” *Nature*, 6 May 1880
+
+“Some 15–20 Burgess Species cannot be allied with any known group.
+Magnify some of them...and you are on the set of a science-fiction
+film.”‘  – Stephen Jay Gould, *Wonderful Life*
+
+“Most of the scientists he’d met were profoundly superstitious.”
+  – Louise Penny, *The Madness of Crowds*
+
+“If I can’t share the awe that *Tyrannosaurus* inspires
+in my son, it is, quite simply, a failing of maturity.”
+  – Andrew Knoll, *Life on a Young Planet*
+[cf. “The learn'd astronomer”]
+
+‘To me, the emergence of life as a defining—perhaps *the* defining —
+feature of our planet is extraordinary. How often has this happened in
+the vastness of the universe? That’s what I think about when I look up
+“in the perfect silence at the stars.”’
+  – Andrew Knoll, *Life on a Young Planet*
+
+“Awe and humility attended the telling of earlier creation stories.
+They are appropriate companions to sciences’s version, as well.”
+  – Andrew Knoll, *Life on a Young Planet*
+
+a
+“I look at the natural geological record, as a history of the world
+imperfectly kept, and written in a changing dialect; of this history
+we possess the last volume alone...Of this volume, only here and there
+a short chapter has been preserved; and of each page, only here and
+there a few lines."  Charles Darwin, *On the Origin of Species*
+
+“As large animals, we can be forgiven for holding a worldview that
+celebrates ourselves, but, in truth, this outlook is dead wrong. We
+have evolved to fit into a bacterial world, and not the reverse.”
+  – Andrew Knoll, *Life on a Young Planet*
+
+“Size and shape surely favor eukaryotes, but morphology provides only
+one of several yardsticks for measuring ecological significance.
+Metabolism—how an organism obtains materials and energy—is
+another, and by this criterion, it is the prokaryotes that dazzle with
+their diversity.     – Andrew Knoll, *Life on a Young Planet*
+
+“*Pyrolobus fumarii* ... cannot grow at the temperatures used to
+pasteurize milk—not because they are too hot, but because they are
+too cold!”     – Andrew Knoll, *Life on a Young Planet*
+
+“Chert lifts the paleontological heart.”
+      – Andrew Knoll, *Life on a Young Planet*
+
+“If oxygen wrought revolutionary change, cyanobacteria were the heroes
+of the revolution.”      – Andrew Knoll, *Life on a Young Planet*
+
+“The capacity to change rapidly but persist indefinitely may epitomize
+bacterial evolution.”      – Andrew Knoll, *Life on a Young Planet*
+
+“Bacteria are particularly good at doing nothing. When the surrounding
+environment is favorable...bacteria multiple rapidly...when ambient
+conditions do not favor growth they are able to persist...most
+bacteria at most times may exists in a state of metabolic torpor.”
+    – Andrew Knoll, *Life on a Young Planet*
+
+“Adaptation [of bacteria] to novel environments can easily be
+investigated in the course of a Ph.D. thesis or federal grant —
+critical timescales for laboratory biologists, but instantaneous by
+geological standards.”    – Andrew Knoll, *Life on a Young Planet*
+
+‘The argument is comfortably simple, it makes intuitive sense, and it
+relies on natural history of the kind that “every schoolboy knows.” In
+short, it is just the sort of proposition that graduate students love
+to dismantle.’      – Andrew Knoll, *Life on a Young Planet*
+
+“We shall not cease from exploration / And the end of all our
+exploring / Will be to arrive where we started / And know the place
+for the first time.”  – T S Eliot, “Little Gidding”
+
+“Dialogue between religion and science matters not so much because it
+hold the prospect of consensus on our past, but because we need to
+agree about our future.”    – Andrew Knoll, *Life on a Young Planet*
+
+“Our grandchildren may know the rhinoceros only from pictures, the
+rain forest from parks, and coral reefs from history books. Even as we
+search for life on Mars, we risk losing it on Earth.”
+    – Andrew Knoll, *Life on a Young Planet*
+
+“I truly have no idea what so many people are raving about. It’s as if
+someone went into their heads while they were sleeping and planted the
+idea that *Inception* is a visionary masterpiece and—hold on … Whoa!
+I think I get it. The movie is a metaphor for the power of delusional
+hype—a metaphor for itself.”
+  – David Edelstein, *New York*, 9 July 2010
+
+“Perhaps he [David Hume] was secretly relieved to learn that
+after all, despite Berkeley, the external world existed, and
+that, despite Hume, Hume was real.”
+    – Will and Ariel Durant, *Rousseau and Revolution*
+
+“Intellectual Evolution...consists principally in the emergence of
+modes of thinking appropriate for larger and larger human
+groupings...This transferability has been manifested in the last five
+hundred years in the growth of science, with its striving for
+culture-free criteria for acceptance.”
+  – Andrew Sherratt, “Reviving the Grand Narrative”,
+    *Journal of European Archaeology*, 1995
+
+“We see complex structures in part because we are built to see
+complex structures. All living organisms have to map their environment
+in order to survive....They have to be pattern detectors.”
+     – David Christian, *Maps of Time*
+
+‘Mass literacy began the process of “disenchanting” the world
+by undermining he authority of traditional, often semi-magical,
+forms of thinking.’     – David Christian, *Maps of Time*
+
+“Of all our senses it is vision that most informs the mind. We
+are versatile diurnal primates with a big visual cortex.”
+  – Philip and Phylis Morrison, *Powers of Ten*
+
+“The world is displayed by our science in diverse ways, by
+manifold instruments and by elaborate theories that no single
+person can claim any longer to master in all detail.”
+  – Philip and Phylis Morrison, *Powers of Ten*
+
+“The domain of quantum motion...is both the most surprising of
+all the remarkable discoveries of physics and the one that most
+resembles everyday life. For it is not the almanac that governs
+much everyday experience, nor is it the more or less accidental
+orbits of gravitating systems. What we find is material
+stability: Like begets like; gold always glitters; bread is
+nourishing.... No two planets are alike; yet all electrons are
+identical, and so are all atoms, taken species by species.”
+  – Philip and Phylis Morrison, *Powers of Ten*
+
+“I know my herbs. They have fixed properties, and follow sacred rules.
+Human creatures do not so. And I cannot even wish they did. I would
+not have one scruple of their complexity done away, it would be a
+lamentable loss.”    – Ellis Peters, *Saint Peter’s Fair*
+
+“Mankind is made of star-stuff.”
+  – attributed to Harlow Shapley, by Phil Morrison, et al.,
+    in *Powers of Ten*
+
+“The world we live in is much younger than you might expect.... There
+have been roughly 600 generations since human beings first ceased to
+be hunter-gatherers.... What we may term historical humankind (humans
+who have left written records behind them), as opposed to
+archaeological humankind... has existed only for...some 300
+generations....This is the true length of human history; before that
+there were two million years of prehistory.”
+     – David Wootton, *The Invention of Science*
+
+“The nova of 1572 was not the cause of the Scientific Revolution, any
+more that the bullet which killed Archduke Franz Ferdinand on 28 June
+1914 was the cause of the First World War. Nevertheless, the nova
+marks, quite precisely, the beginning of the Revolution, as the death
+of the archduke marks the beginning of the war.”
+     – David Wootton, *The Invention of Science*
+
+“With all its imperfections, modern science is a technique that is
+sufficiently well tuned to nature so that it works—it is a practice
+that allows us to learn reliable things about the world.”
+   – Steven Weinberg, *To Explain the World*
+
+“In the years since Snow’s lecture the two-cultures problem has
+deepened; history of science, far from serving as a bridge between
+the arts and the sciences, nowadays offers the scientists a picture
+of themselves that most of them cannot recognize. It has become part
+of the problem, not part of the solution.”
+     – David Wootton, *The Invention of Science*
+
+“There is no such thing as the Scientific Revolution, and this
+is a book about it.”  – Steven Shapin, *The Scientific Revolution*
+
+“[Wittgenstein] maintained...at one time that all existential
+propositions are meaningless.... I invited him to consider the
+proposition: ‘There is no hippopotamus in this room at present.’
+When he refused to believe this, I looked under all the desks
+without finding one; but he remained unconvinced.”
+ – Bertrand Russell, “Obituary: Ludwig Wittgenstein”, *Mind*, July 1951
+
+“No one should be surprised if histories and philosophies
+of science which start from Wittgenstein seem to miss the
+very things that science is all about.”
+     – David Wootton, *The Invention of Science*
+
+“The whole, wonderful point of some experiences—music, sex,
+laughter—is that there are not and never will be any adequate words to
+describe them. This does not mean they do not exist.”
+     – David Wootton, *The Invention of Science*
+
+“In an extraordinary labour of love, every surviving copy of the first
+(1543) and the second (1566) editions of *On the Revolutions* has now
+been studied to identify the marginal comments written by its first
+readers.... They like Copernicanism as a mathematical device; they had
+no time for it as scientific truth.”
+     – David Wootton, *The Invention of Science*
+
+“Historians of astronomy trade insults on the question of whether
+there are equants in Copernicus or not.”
+     – David Wootton, *The Invention of Science*
+
+“They are deceiv’d that acquiesce to things which they
+have heard, and believe not what they have seen.”
+  – Thomas Bartholin, *The Anatomical History* (1653)
+
+“Philosophy is written in this very great book which always lies open
+before out eyes (I mean the universe), but one cannot understand it
+unless one first learns to understand the language...in which it is
+written. It is written in mathematical language...without these means
+it is humanly impossible to understand a word of it; without these
+there is only clueless scrabbling around in a dark labyrinth.”
+   – Galileo, *The Assayer* (1623)
+
+“What I cannot create, I do not understand.”
+  – Richard Feynman, on his blackboard at the time of his death
+
+“Contrary to the opinion of the publisher of Stephen Hawking’s *A
+Short [sic] History of Time*, we believe that, for students, every
+additional equation in worked out examples will double readership.”
+   – C F Chan Man Fong, *et al.*,
+     *Advanced Mathematics for Applied and Pure Sciences*
+
+“For of meridians and parallels / Man hath weaved out a net, and this
+net thrown / Upon the heavens, and now they are his own. / Loth to go
+up the hill, or labour thus / To go to heaven, we make heaven come to
+us.”  – John Donne, “An Anatomy of the World: The First Anniversary”
+
+“No competent astronomer defended the traditional Ptolemaic
+system once they had heard that Venus had a full set of phases;
+you had to be an ill-informed philosopher to do so.”
+     – David Wootton, *The Invention of Science*
+
+“The metric system merely completed a process that had begun with the
+invention of the telescope, which definitively destroyed the idea
+that the universe was made on the same scale as man.”
+     – David Wootton, *The Invention of Science*
+
+“The key change occurred in 1608 with the invention of the telescope
+and the microscope. Instruments are prostheses for thinking, and act
+as agents of change.”    – David Wootton, *The Invention of Science*
+
+“The importance of an intellectual change simply cannot
+be measured by the amount of controversy it generates.”
+     – David Wootton, *The Invention of Science*
+
+“The distinction between magic and science can be expressed by saying
+that in science there is progress, but in magic there isn’t.”
+    – Ludwig Wittgenstein, *Remarks on Frazer’s Golden Bough*
+
+“The discovery of the barometer transformed physics, just
+as the discovery of the telescope transformed astronomy.”
+  – Vincenzo Antinori, *Notizie Istoriche*,
+    tr David Wooton
+
+“The history of science has its own revolutions, just like the history
+of nations...with this significant difference, that revolutions in
+science...successfully achieve what they set out to do.”
+  – Vincenzo Antinori, *Notizie Istoriche*,
+    tr David Wooton
+
+“Natural philosophy as I understand it does not slip away
+into sublime and subtle speculations, but is applied effectively
+to relieve the inconveniences of the human condition.”
+  – Francis Bacon, tr David Wooton
+
+“Egalitarian communities (cities, monasteries and cathedral
+chapters...) are governed by the clock, while despotisms are not;
+clocks were given prominent, public places in monasteries, cathedrals
+and town halls, but they were slower to establish themselves in royal
+palaces. (Even now, my university campus, build in the 1960s, is
+dominated by a clock tower which is there not to tell time but to
+convey the impression that ours is a disciplined, egalitarian
+community.)”  – David Wootton, *The Invention of Science*
+
+“Signore Simplicio, give up on that idea and that hope that you have,
+that there can be men so much better educated, so much more
+sophisticated, and with so much more book-learning than the rest of us
+that they can, in defiance of nature, turn falsehood into truth.”
+  – Galileo, *Dialogue Concerning the Two Chief World Systems*,
+    tr David Wooton
+
+“In science progress is a fact, in ethics and politics it is a
+superstition.”  – John Gray, *Against Progress and Other Illusions*
+
+“Before Galileo, no competent mathematician had doubted that
+Archimedes provided a complete explanation of what ahppens when
+bodies float, and no competent Aristotelian philosopher had
+disputed the view that shape is critical in determining which
+bodies float. And yet Galileo realized...—it must have been an
+extraordinary shock—that bodies often float without displacing
+their own weight in water. Everybody had been wrong.”
+    – David Wootton, *The Invention of Science*
+
+“It is easy to think that new knowledge comes from new types of
+apparatus–Galileo’s telescope, Boyle’s air pump, Newton’s
+prism—not from new intellectual tools. Often this is a mistaken
+view....New instruments are plain as pikestaffs, new intellectual
+tools are not.”    – David Wootton, *The Invention of Science*
+
+“Graphs are now ubiquitous, so it comes as something of a shock
+to discover that they only began to be put to use in the natural
+sciences in the 1830s, and in the social sciences in the 1880s.
+The graph represents a powerful new tool for thinking.”
+    – David Wootton, *The Invention of Science*
+
+“A false theory can be perfectly reliable when used in the
+appropriate context. If you learn to navigate a boat you will be
+taught to work with a Ptolemaic system, with a stationary earth and a
+moving sun, not because it is true, but because it makes for an easy
+set of calculations.”    – David Wootton, *The Invention of Science*
+
+“We have the scientific knowledge we have against all the odds.
+There is no evidence that the universe was made with us in mind,
+but by good fortune we seem to have the sensory apparatus and the
+mental capacities required to make a start on understanding it.”
+    – David Wootton, *The Invention of Science*
+
+“It is now become difficult to think our way back into a world
+where people did not speak of facts, hypotheses and theories,
+where knowledge was not grounded in evidence, where nature did
+not have laws. The Scientific Revolution has become almost
+invisible simply because it has been so astonishingly successful.”
+    – David Wootton, *The Invention of Science*
+[I find it intriguing that this was published right before the
+phrase “alternative facts” became part of our public discourse.]
+
+“We maneuver our way successfully in intricate social situations
+having only a guesswork expectation of the behavior of other persons
+around and even less certainly of their expectations of us. Yet, when
+these expectations fail we are able to master the great power of humor
+and recover gracefully.”    – Judea Pearl, *Heuristics*
+
+“Even the traditional language of the natural sciences cannot claim to
+be totally literal, although its key terms often are not recognized to
+be metaphors until, in the course of time, the general adoption of a
+new analogy yields perspective into the nature of the old.”
+ – M H Abrams, *The Mirror and the Lamp*
+
+“I have noticed that even people who claim that everything is
+predestined and that we can do nothing to change it look before they
+cross the road.”  – Stephen Hawking, “Is Everything Determined?”
+
+“It is too difficult to think up a complete theory of everything all
+at one go (though this does not seem to stop some people; I get two or
+three unified theories in the mail each week).
+  – Stephen Hawking, “Is the End in Sight for Theoretical Physics?”
+
+“At present, computers are a useful aid in research, but they have to
+be directed by human minds. If one extrapolates their recent rapid
+rate of development, however, it would seem quite possible that they
+will take over altogether in theoretical physics. So maybe the end is
+in sight for theoretical physicists, if not for theoretical physics.”
+  – Stephen Hawking, “Is the End in Sight for Theoretical Physics?”
+
+“For normal speeds of travel the differences between the rates of
+clocks are very small. You would have to fly around the world four
+hundred million times to add one second to your life; but your life
+would be reduced by more than that by all those airline meals.”
+  – Stephen Hawking, “Einstein’s Dream”
+
+“During the inflationary period the universe borrowed heavily from its
+gravitational energy to finance the create of more matter. The result
+was a triumph for Keynesian economics: a vigorous and expanding
+universe, filled with material objects. The debt of gravitational
+energy will not have to be paid until the end of the universe.”
+  – Stephen Hawking, “The Origin of the Universe”
+
+“Aggression would have given a survival advantage in cave sweller days
+and earlier and so would have been favored by natural selection....DNA
+changes by biological evolution only on a time scale of millions of
+years, but our powers of destruction are increasing on a time scale
+for the evolution of information, which is now only twenty or thirty
+years. Unless we can use our intelligence to control our aggression,
+there is not much chance for the human race.”
+  – Stephen Hawking, “Is Everything Determined?”
+
+“Recent prophets of doom have [set] definite dates for the end of the
+world. These have even tended to depress the stock market, though it
+meats me why the end of the world should make one want to sell shares
+for money. Presumably, you can’t take either with you.”
+  – Stephen Hawking, “The Future of the Universe”
+
+“The Chronology Protection Hypothesis is supported by some recent
+calculations that I and other people have done. But the best evidence
+we have that time travel is not possible, and never will be, is that
+we have not been invaded by hordes of tourists from the future.”
+  – Stephen Hawking, “The Future of the Universe”
+
+“It is truly a stochastic parrot, and Google has some serious work
+to do.”   – Christian Lebiere, personal communication, 13 March 2024
+
+“Battles are the technical fireworks of the historic drama; behind
+them are the loves and hates of men and women, the toil and gambles of
+economic life, the defeats and triumphs of science, literature, and
+art, the desperate longings of religious faith.”
+     – Will and Ariel Durant, *The Age of Napoleon*
+
+"The State must increasingly and earnestly concern itself with the
+care of the sick and the aged, and above all, of the children.... I do
+not want to see impaired the vigor of competition, but we can do much
+to mitigate the consequences of failure.... We want to have free
+competition upwards; we decline to allow free competition downwards.
+We do not want to pull down the structure of science and
+civilizations; but to spread a net over the abyss."
+  – Winston Churchill, *Never Give In!*
+
+"[The function of the scientist is] 'to find the point of view from
+which the subject appears in its greatest simplicity.'"
+  – Josiah Willard Gibbs,
+    quoted in Muriel Rukeyser, *Willard Gibbs: American Genius*
+
+"Ideal suppositions are unavoidable in any science. The physicist has
+never fully explained a single fact in the universe. He approximates
+only. The economist cannot hope to do better."
+  – Irving Fisher, *Mathematical Investigations in the Theory of
+                    Value and Prices*
+
+"Causation itself may live more in psychology than in physics.
+There is no experiment that can definitively prove the presence
+of causality; it is entirely immeasurable."
+  – Max Bennett, *A Brief History of Intelligence*
+
+”If it weren’t for electricity we’d all be watching television by
+candlelight.”  – George Gobel, from a 1954 television special
+                 commemorating the 75th birthday of the
+                 incandescent light bulb
+
+"Of course, nematodes don't go through artistic blue periods the
+way Picasso did."  – Max Bennett, *A Brief History of Intelligence*
+
+"Evolutionary constraints pass a long shadow on modern humanity."
+      – Max Bennett, *A Brief History of Intelligence*
+
+"The original function of the neocortex was surely not as broad as its
+modern applications—it wasn't for pondering the nature of existence,
+planning careers, or writing poetry."
+      – Max Bennett, *A Brief History of Intelligence*
+
+"Thinking itself was born not within the clay creatures of
+Prometheus's divine workshop, but instead in the small underground
+tunnels and knotted trees of a Jurassic Earth, birthed from the
+crucible of a hundred million years of dinosaure predation and our
+ancestor's desperate attempt to avoid fading into extinction."
+      – Max Bennett, *A Brief History of Intelligence*
+
+"The ability to infer the intent of others enabled early primates to
+filter out extraneous behaviors and focus only on the relevant
+ones.... This created a new degree of transmissibility: skills
+that...would once have faded...could now propagate throughout a group
+and be passed down endlessly through generations. This is why primates
+use hammers and rats do not."
+      – Max Bennett, *A Brief History of Intelligence*
+
+"We have only sparse archaeological clues [for the reasons for the
+sudden growth in hominin brain size about 2.5 Ma].... Our
+understanding of the timeline of events changes with each new
+archaeological finding. The earliest known evidence of X is only the
+earliest until a new ambitious paleoanthropologist uncovers an even
+earlier example." – Max Bennett, *A Brief History of Intelligence*
+
+"A *Homo erectus* without a stone hand ax was as doomed as a lion born
+without teeth."    – Max Bennett, *A Brief History of Intelligence*
+
+"Herein lies both the tragedy and beauty of humanity. We are indeed
+some of the most altruistic animals, but we may have paid the price
+for this altruism with our darker side: our instinct to punish those
+who we deem to be moral violators; our reflexive delineation of people
+into good and evil; our desperation to conform to our in-group and the
+ease with which we demonize those in the out-group."
+      – Max Bennett, *A Brief History of Intelligence*
+
+"Person: Are there any animals with three legs?
+GPT-3: No, there are no animals with three legs.
+Person: Why don't animals have three legs?
+GPT-3: Animals don't have three legs because they would fall over."
+  – quoted by Max Bennett in *A Brief History of Intelligence*
+[*cf.* "All dogs are three legged; it's just that most of them
+carry a spare." – Veterinarian Marina Siegert, personal communication,
+commenting on how well dogs that have lost a leg continue to function]
+
+"Once predation became a thing, evolution went into overdrive:
+those organisms that didn't adapt were lunch—literally."
+  – Arik Kershenbaum, *The Zoologist's Guide to the Galaxy*
+
+"It is likely that no animal or alien can evolve a sophisticated
+mathematical ability unless it first acquires a basic numerical
+ability. Our own prodigious capabilities in algebra, calculus and
+statistics may only be possible because our ancestors could tell the
+difference between facing down two lions and facing down five."
+  – Arik Kershenbaum, *The Zoologist's Guide to the Galaxy*
+
+"The same psychological techniques that you uses to teach your
+dog to sit can be used to teach a chicken to skateboard."
+  – Arik Kershenbaum, *The Zoologist's Guide to the Galaxy*
+
+"If sociality has so many advantages, why do only some animals
+on Earth show feats of spectacular sociality: endless wildebeest
+herds, complex termite nests, New York, and so on?"
+  – Arik Kershenbaum, *The Zoologist's Guide to the Galaxy*
+
+"We are apt to think that, as deception is so common and widespread
+in humans (not just in human politicians), it is a uniquely human
+characteristic....Both truth and deceit are...amply present in the
+animal world."
+  – Arik Kershenbaum, *The Zoologist's Guide to the Galaxy*
+
+"One of the things about science is that sometimes you
+just have to do the experiment to convince yourself that
+the experiment was pointless."
+   – Arik Kershenbaum, *The Zoologist's Guide to the Galaxy*
+
+"Mark is like Schrödinger's cat: you can never tell
+whether he's working or not."
+   – Christian Lebiere, personal communication, 4 June 2025
+
+"Many critics, especially vociferous ones learned in philosophy
+as I have discovered, prefer to read a book by title only."
+  – Richard Dawkins, introduction to the 30th anniversary edition
+    of *The Selfish Gene*
+
+"Presumably there is indeed no purpose in the ultimate fate of the
+cosmos, but do any of us really tie our life's hopes to the ultimate
+fate of the cosmos anyway? Of course we don't; not if we are sane. Our
+lives are ruled by all sorts of closer, warmer, human ambitions and
+perceptions. To accuse science of robbing life of the warmth that
+makes it worth living is so preposterously mistaken, so diametrically
+opposite to my own feelings and those of most working scientists, I am
+almost driven to the despair of which I am wrongly suspected."
+  – Richard Dawkins, quoting himself in the introduction to the
+    30th anniversary edition of *The Selfish Gene*
+
+"[If] deceit is fundamental in animal communication, then there must
+be strong selection to spot deception, and this ought, in turn, to
+select for a degree of self-deception — by the subtle signs of
+self-knowledge — the deception being practiced."
+  – Robert Trivers, forward to Richard Dawkins *The Selfish Gene*
+
+"[The expert reader's] favourite phrases are `with the
+exception of'; `but on the other hand'; and `ugh'.
+     – Richard Dawkins, preface to *The Selfish Gene*
+
+"Intelligent life on a planet comes of age when it first works out the
+reason for its own existence. If superior creatures from space ever
+visit earth, the first question they will ask, in order to assess the
+level of our civilization, is: `Have they discovered evolution yet?'"
+   – Richard Dawkins, *The Selfish Gene*
+
+“No hominid ancestor ever left more descendents because
+he could play chess.”     – John Maynard Smith and Eörs Szathamáry,
+                                 *The Major Transitions in Evolution*
+
+a death language szathamáry maynard-smith
+"The only insteresting non-selectionist alternative would be that
+language is an unmodified spandrel—a perfect preadaptation. No serious
+theory has been built along these lines. Non-selectionist explanations
+of this kind only work if you want to use something complex for
+something simpler. You could use a dead computer as a paperweight or
+an aquarium, but an ordinary paperweight or aquarium could ever be
+used as a computer.”    – John Maynard Smith and Eörs Szathamáry,
+                                 *The Major Transitions in Evolution*
+
+a szathamáry maynard-smith
+“[For example] European vistors to the USA, confronted by such phrases
+as *there you go* or *full of shit*, learn their meanings by
+discovering how they are used and, equally important, by using them
+experimentally, and judging from the respons whether the usage is
+correct.”   – John Maynard Smith and Eörs Szathamáry,
+                                 *The Major Transitions in Evolution*
+
+a szathamáry maynard-smith
+“Language does not fossilize.”
+        – John Maynard Smith and Eörs Szathamáry,
+                    *The Major Transitions in Evolution*
+
+a science szathamáry maynard-smith
+“The invention of writing made possible the emergence of modern,
+large-scale societies, and the change from societies dominated by
+magic and ritual to those in which science and reason play an
+increasing role. We are today in the midst of yet another major
+transition, to a society in which information is stored and
+transmitted electrnically.”
+        – John Maynard Smith and Eörs Szathamáry,
+                    *The Major Transitions in Evolution*
+
+a szathamáry maynard-smith
+The East African Vervet monkey has three alarm calls, one for pythons,
+one for martial eagles and one for leopards.... Humans use words such
+as ‘unicorn‘ and ’golden mountain’ to refer to objects that do not
+exist in the world.... No animal would have an alarm call for a
+unicorn.”
+         – John Maynard Smith and Eörs Szathamáry,
+                    *The Major Transitions in Evolution*
+
+"Nobody has yet invented the mathematics for describing the total
+structure and behaviour of such an object as a physicist, or even
+one of his cells."      – Richard Dawkins, *The Blind Watchmaker*
+
+"If you read trendy intellectual magazines, you may have noticed that
+`reductionism` is one of those things, like sin, that is only
+mentioned by people who are against it. To call oneself a reductionist
+will sound, in some circles, a bit like admitting to eating babies."
+      – Richard Dawkins, *The Blind Watchmaker*
+
+"On my wanderings through the backwaters of [the computer simulation]
+Biomorph Land, I have encountered fairy shrimp, Aztec temples, Gothic
+church windows, aboriginal drawings of kangaroos, and, on one
+memorable but unrecapturable occasion, a passable caricature of the
+Wykeham Professor of Logic."
+      – Richard Dawkins, *The Blind Watchmaker*
+
+"The actual animals that have ever lived on Earth are a tiny subset of
+the theoretical animals that *could* exist. These real animals are the
+products of a very small number of evolutionary trajectories through
+genetic space.... Sitting somewhere in the huge mathematical space are
+humans and hyenas, amoebas and aardvarks, flatworms and squids, dodos
+and dinosaurs."           – Richard Dawkins, *The Blind Watchmaker*
+
+
+"The ability to reduce everything to simple fundamental laws does not
+imply the ability to start from those laws and reconstruct the universe"
+    – P. W. Anderson, "More Is Different", *Science*, 4 August 1972
+
+"The more the elementary particle physicists tell us about
+the nature of the fundamental laws the less relevance they
+seem to have to the very real problems of the rest of science,
+much less to those of society."
+    – P. W. Anderson, "More Is Different", *Science*, 4 August 1972
+
+"The macOS Command-Tab application switcher can sometimes appear
+on the wrong screen, especially when using multiple displays."
+   – Google Gemini (26 June 2025)
+
+"Direct levitation is the hardest of the practical magics, because of
+the ever-present danger of the well-known principles of action and
+reaction, which means that a wizard attempting to lift a heavy item by
+mind power alone faces the prospect of ending up with his brains in
+his boots."      – Terry Pratchett, *Equal Rites*
+
+"The cold waters of the details of implementation [of the simulation
+of cognition]."
+  – Christian Lebiere, personal communication to Mark Orr, June 2025,
+    as reported by the latter 7 July 2025
+
+"I am the Yogi Berra of cognitive science."
+   – Christian Lebiere, personal communication [referring to his
+     utterances and not his catching, hitting or World Series
+     record]
+
+"Maybe [thylacines] weere pests to humans, but humans were much
+bigger pests to them; now there are no thylacines left and a
+considerable surplus of humans."
+         – Richard Dawkins, *The Blind Watchmaker*
+
+"Popular bookshops classify their books into major sections that
+reflect popular demand. Instead of science, history, literature,
+geography and so on, their major departments are gardening, cookery,
+`TV titles`, the occult, and I once saw a shelf prominently labelled
+`RELIGION AND UFOs`.      – Richard Dawkins, *The Blind Watchmaker*
+
+dawkins librarians categories taxonomy filing museum museums
+Whatever categories one adopts for a filing system, there are always
+awkward items that don't fit, and uncomfortable indecision leads me, I
+am sorry to say, to leave odd papers out on the table, sometimes for
+years at a time until it is safe to throw them away.... I sometimes
+wonder whether librarians, and keepers of musuems...are particulalry
+prone to ulcers."      – Richard Dawkins, *The Blind Watchmaker*
+
+"**anthropocognomorphization* (n) – the attribution of human cognition
+to things that are not human cognition"
+    – Kevin Gluck, *ACT-R Workshop*, Columbus, Ohio, 29 July 2025
+
+"There have been times in the history of science when the whole of
+orthodox science has been rightly thrown over because of a single
+awkward fact."      – Richard Dawkins, *The Blind Watchmaker*
+
+"For a plesiosaur in Loch Ness, I would accept the evidence of my own
+eyes. If I saw a man levitating himself, before rejecting the whole of
+physics I would suspect that I was the victim of a hallucination or a
+conjuring trick."      – Richard Dawkins, *The Blind Watchmaker*
+
+"The essence of life is statistical improbability on a colossal scale."
+      – Richard Dawkins, *The Blind Watchmaker*
+
+"What lies at the heart of every living thing is not a fre, not warm
+breath, not a spark of life. It is information, words, instructions."
+      – Richard Dawkins, *The Blind Watchmaker*
+
+"If you want to understand life, don't think about vibrant,
+throbbing gels and oozes, think about information technology."
+      – Richard Dawkins, *The Blind Watchmaker*
+
+"One of the firmest tenets...in the later teachings of Dr Trelawney
+was that coincidence was no more than `magic in action'.
+      – Anthony Powell, *A Dance to the Music of Time*
+
+"Pseudoscience is afraid of one particular type of
+people who are very hard to fool: stage magicians."
+   – Liu Cixin, *The Three-Body Problem*, tr Ken Liu
+
+‘It is amazing to think that in the year 2020 Biden could actually run
+for president with an ad that says: “I believe in the Enlightenment,
+Newtonian physics and the Age of Reason. The other guy doesn’t.’
+            – Thomas Friedman, the *New York Times*, 30 July 2020
+
+"I could not imagine being an atheist at any time before 1859."
+     – Richard Dawkins, *The Blind Watchmaker*
+
+“One thing about DARPA is its better than working for the Mob.”
+   – Christian Lebiere, November 2023, as related by Mark Orr
+
+“[Einstein’s] feelings about [quantum mechanics] are summed up in the
+phrase “God does not play dice.” But all the evidence indicates that
+God is an inveterate gambler and that He throws the dice on every
+possible occasion.”  – Stephen Hawking, “Einstein’s Dream”
+
+“Draft animals can deliver 500 to 700 watts of power,
+while humans, at best, can deliver about 75 watts.”
+     – David Christian, *Maps of Time*
+
+“Computers were invented as super drones to do tasks no human in her
+or his right mind (much less left brain) would have the patience, or
+the perseverance, to manage.... Now our robot drones, the ones
+designed to take all the boring jobs, become the instrument for
+libidinal extravaganzas devoid of any socially productive component.
+Video games are computers neutered of purpose, liberated from
+functionality.”    – Charles Bernstein, “Play It Again, Pac-Man,”
+                     *Postmodern Culture*, September 1991
+
+“You are not a horse. You are not a cow. Seriously, y'all. Stop
+it….Using the drug ivermectin to treat COVID-19 it can be dangerous
+and even lethal.”     – US FDA, *Twitter*, 21 August 2021
+
+‘When He supposedly said, “Let there be light!” perhaps He actually
+said, “Let there be an SU(5) Yang-Mills theory with all its gauge
+bosons, let the symmetry be broken down spontaneously, and let all but
+one of the remaining massless gauge bosons be sold into infrared
+slavery. That one last gauge boson is my favorite. Let him rush forth
+to illumnate all of my creations!”’    – A Zee, *Fearful Symmetry*
+
+“The new technologies have shortened our attention spans, heightened
+our anxieties, made us more prone to depression and more in need of
+outside validation, left us less capable of patient reflection, and
+also less interested in seeking out different points of view. It’s no
+accident that Trump’s favorite outlet was Twitter: The medium is
+perfect for people who think in spasms, speak in grunts, emote with
+insults and salute with hashtags.”
+      – Bret Stephens, the *New York Times*, 20 September 2021
+
+“The [evolutionary] relationship between certainty of paternity and
+male parental care remains an area of active research, enlivened by
+controversy.”    – Neil A Campbell, Jane B Reece, et al., *Biology*
+
+feynman string-theory physics
+“String theorists don’t make predictions, they make excuses.”
+    – attributed to Richard Feynman
+
+“I’ve no idea how to make a rational analysis of Twitter.”
+    – Mark Orr, personal communication
+
+“Consider, for instance, an individual *E. coli* cell living
+in the erratic environment of a human colon, dependent for
+its nutrients on the whimsical eating habits of its host.”
+          – Neil A Campbell, Jane B Reece, et al., *Biology*
+
+“Humans, of course, were not created in a state of Original Reason. We
+descended from apes, spent hundreds of millennia in small bands, and
+evolved our cognitive processes in the service of hunting, gathering,
+and socializing. Only gradually, with the appearance of literacy,
+cities, and long-distance travel and communication, could our
+ancestors cultivate the faculty of reason and apply it to a broader
+range of concerns, a process that is still ongoing.”
+       – Steven Pinker, *The Better Angels of Our Nature*
+
+“There’s a reason ‘I.T.’ is a four letter word.”
+
+“You know what uranium is, right? This thing called nuclear weapons
+like lots of things are done with uranium including some bad things.”
+    – Donald Trump, White House Press Briefing, 16 February 2017
+
+“The process of living, like all other processes, raises the total
+amount of entroy in the universe, destroying order and structure.
+Ever compare a five-course meal with the ensuing excrement?”
+          – Robert Wright, *Nonzero*
+
+“[E. O.] Wilson, the world’s expert on ants, may have had
+the last laugh in his verdict on Marxism: ‘Wonderful theory.
+Wrong species.’”      – Steven Pinker, *The Blank Slate*
+
+“All that stuff I was taught about evolution, embryology, Big Bang
+theory, all that is lies straight from the pit of hell...I believe
+that the Earth is about 9,000 years old. I believe that it was created
+in six days as we know them.”
+    – Rep Paul Broun, physician and member of the House Committee
+       on Science, Space and Technology, speech to Liberty Baptist
+       Church, 27 September 2012
+
